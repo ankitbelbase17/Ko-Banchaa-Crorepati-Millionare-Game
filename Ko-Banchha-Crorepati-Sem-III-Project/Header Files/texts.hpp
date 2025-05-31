@@ -1,0 +1,14 @@
+#include <SFML/Graphics.hpp>
+sf::Text welcomeText;
+sf::Text greetingText;
+sf::Text questionText;
+sf::Text optionAText;
+sf::Text optionBText;
+sf::Text optionCText;
+sf::Text optionDText;
+sf::Text resultText;
+sf::Text rewardText;
+sf::Text timerText;
+sf::Text quitText;
+sf::Text congratulationText;
+sf::Text gameoverText;
